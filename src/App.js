@@ -11,6 +11,11 @@ function App() {
     <Router>
       <div className="App">
         <div className="App__Aside" >
+          <div>
+          <h1 className="title__fontFamily">Pretty Gifts</h1>
+
+          </div>
+          
         <img className="App__Aside-img" src="https://media.giphy.com/media/3oz8xBkRsgPTnbK1GM/giphy.gif"></img>
         </div>
         <div className="App__Form">
